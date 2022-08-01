@@ -3,6 +3,11 @@
 
 #include <iostream>
 #include <stdio.h>
+void funcionx()
+{
+
+
+}
 
 int main()
 {
